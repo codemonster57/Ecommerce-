@@ -2,9 +2,9 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/sX57TLIPNx8)
 
-About This Course:
+
+
 
 -   🚀 Project Setup
 -   🗄️ MongoDB & Redis Integration
